@@ -111,7 +111,7 @@ The process of hash calculation is a fundamental operation in the File Managemen
 
 Hashing For Duplicate Detection
 
-	The primary purpose of hashing within the File Management System is to detect duplicate files. Once the program has calculated the hash for each file, it keeps track of these hash values. If two or more files have the same hash value, they are identified as potential duplicates.
+The primary purpose of hashing within the File Management System is to detect duplicate files. Once the program has calculated the hash for each file, it keeps track of these hash values. If two or more files have the same hash value, they are identified as potential duplicates.
 
 
 Efficient Duplicate Detection
@@ -145,6 +145,6 @@ User Experience and UI Design.
 (b)	Delete Button: In addition to preview, a "Delete" button is available for each file. Users can easily remove unwanted duplicates with a simple click. This streamlined deletion process eliminates the need for navigating to the file's location in the file explorer and manually deleting it. It offers users a sense of control over file management.
 (c)	Time-Saving.  The software's design not only reduces cognitive load but also saves time. Users don't have to switch between different applications to preview and delete files, making the process more efficient.
 
-	Real-time Feedback.
+Real-time Feedback.
 (a)	Visual Progress.  The progress bar is a critical functional element. It's a visual representation of the software's ongoing operation. As users initiate the scan, the progress bar visually fills, showing the percentage of completion. This not only keeps users informed but also offers a sense of progress. It aligns with the well-established psychological concept that users prefer feedback and acknowledgment of their actions.
 (b)	Scan Statistics for Decision-Making.   Post-scan statistics empower users to make informed decisions about their next steps. The details of total files scanned and the number of duplicate files found will give detailed state of the users in terms of best practices followed and data integrity of the directory scanned
